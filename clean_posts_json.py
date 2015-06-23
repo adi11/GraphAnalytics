@@ -17,8 +17,8 @@ pattern2 = '_Id"'
 subst1 = '"'
 subst2 = '__id"'
 
-with open(DES+"/"+"Posts_1c.json",'w') as new_file:
-	with open(DES+"/"+"Posts_1.json") as old_file:
+with open(DES+"/"+"Posts_2c.json",'w') as new_file:
+	with open(DES+"/"+"Posts_2.json") as old_file:
 		for line in old_file:
 			s= line
 			#s.replace(pattern1,subst1)

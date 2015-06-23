@@ -13,9 +13,9 @@ pattern1 = '=(.*)TagName'
 pattern2 = '/>'
 
 subst1 = ""
-subst2 = 'Type= \"Tag\" />'
+subst2 = '_type =\"vertex\" Type= \"Tag\" />'
 
-with open(DES+"/"+"Tags_1.xml",'w') as new_file:
+with open(DES+"/"+"Tags_2.xml",'w') as new_file:
 	with open(DES+"/"+"Tags.xml") as old_file:
 		for line in old_file:
 			s= line

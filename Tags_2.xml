@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="definitions" Count="9" ExcerptPostId="105" WikiPostId="104" _type ="vertex" Type= "Tag" />
+  <row Id="machine-learning" Count="233" ExcerptPostId="4909" WikiPostId="4908" _type ="vertex" Type= "Tag" />
+  <row Id="bigdata" Count="82" ExcerptPostId="66" WikiPostId="65" _type ="vertex" Type= "Tag" />
+  <row Id="data-mining" Count="94" ExcerptPostId="80" WikiPostId="79" _type ="vertex" Type= "Tag" />
+  <row Id="databases" Count="13" _type ="vertex" Type= "Tag" />
+  <row Id="libsvm" Count="2" ExcerptPostId="18" WikiPostId="17" _type ="vertex" Type= "Tag" />
+  <row Id="scalability" Count="15" _type ="vertex" Type= "Tag" />
+  <row Id="efficiency" Count="18" ExcerptPostId="142" WikiPostId="141" _type ="vertex" Type= "Tag" />
+  <row Id="performance" Count="12" _type ="vertex" Type= "Tag" />
+  <row Id="nosql" Count="11" ExcerptPostId="119" WikiPostId="118" _type ="vertex" Type= "Tag" />
+  <row Id="relational-dbms" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="clustering" Count="40" ExcerptPostId="145" WikiPostId="144" _type ="vertex" Type= "Tag" />
+  <row Id="octave" Count="2" ExcerptPostId="68" WikiPostId="67" _type ="vertex" Type= "Tag" />
+  <row Id="k-means" Count="8" _type ="vertex" Type= "Tag" />
+  <row Id="algorithms" Count="36" _type ="vertex" Type= "Tag" />
+  <row Id="tools" Count="19" _type ="vertex" Type= "Tag" />
+  <row Id="processing" Count="5" _type ="vertex" Type= "Tag" />
+  <row Id="hadoop" Count="40" _type ="vertex" Type= "Tag" />
+  <row Id="r" Count="75" ExcerptPostId="49" WikiPostId="48" _type ="vertex" Type= "Tag" />
+  <row Id="data-cleaning" Count="16" _type ="vertex" Type= "Tag" />
+  <row Id="statistics" Count="58" ExcerptPostId="3790" WikiPostId="3789" _type ="vertex" Type= "Tag" />
+  <row Id="parallelism" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="distributed" Count="9" _type ="vertex" Type= "Tag" />
+  <row Id="neo4j" Count="3" ExcerptPostId="181" WikiPostId="180" _type ="vertex" Type= "Tag" />
+  <row Id="recommendation" Count="34" ExcerptPostId="4907" WikiPostId="4906" _type ="vertex" Type= "Tag" />
+  <row Id="information-retrieval" Count="8" _type ="vertex" Type= "Tag" />
+  <row Id="google" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="search" Count="9" _type ="vertex" Type= "Tag" />
+  <row Id="education" Count="11" _type ="vertex" Type= "Tag" />
+  <row Id="open-source" Count="7" _type ="vertex" Type= "Tag" />
+  <row Id="similarity" Count="13" _type ="vertex" Type= "Tag" />
+  <row Id="data-stream-mining" Count="2" ExcerptPostId="109" WikiPostId="108" _type ="vertex" Type= "Tag" />
+  <row Id="dimensionality-reduction" Count="8" _type ="vertex" Type= "Tag" />
+  <row Id="python" Count="53" _type ="vertex" Type= "Tag" />
+  <row Id="nlp" Count="47" ExcerptPostId="147" WikiPostId="146" _type ="vertex" Type= "Tag" />
+  <row Id="language-model" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="topic-model" Count="7" _type ="vertex" Type= "Tag" />
+  <row Id="lda" Count="5" _type ="vertex" Type= "Tag" />
+  <row Id="feature-selection" Count="22" _type ="vertex" Type= "Tag" />
+  <row Id="map-reduce" Count="11" ExcerptPostId="137" WikiPostId="136" _type ="vertex" Type= "Tag" />
+  <row Id="mongodb" Count="3" ExcerptPostId="178" WikiPostId="177" _type ="vertex" Type= "Tag" />
+  <row Id="indexing" Count="1" ExcerptPostId="152" WikiPostId="151" _type ="vertex" Type= "Tag" />
+  <row Id="data-indexing-techniques" Count="2" ExcerptPostId="149" WikiPostId="148" _type ="vertex" Type= "Tag" />
+  <row Id="dataset" Count="56" _type ="vertex" Type= "Tag" />
+  <row Id=".net" Count="1" ExcerptPostId="168" WikiPostId="167" _type ="vertex" Type= "Tag" />
+  <row Id="pandas" Count="9" _type ="vertex" Type= "Tag" />
+  <row Id="parallel" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="metadata" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="parsing" Count="6" _type ="vertex" Type= "Tag" />
+  <row Id="social-network-analysis" Count="13" _type ="vertex" Type= "Tag" />
+  <row Id="time-series" Count="28" _type ="vertex" Type= "Tag" />
+  <row Id="javascript" Count="4" _type ="vertex" Type= "Tag" />
+  <row Id="visualization" Count="24" _type ="vertex" Type= "Tag" />
+  <row Id="svm" Count="21" _type ="vertex" Type= "Tag" />
+  <row Id="classification" Count="86" ExcerptPostId="4911" WikiPostId="4910" _type ="vertex" Type= "Tag" />
+  <row Id="binary" Count="4" _type ="vertex" Type= "Tag" />
+  <row Id="optimization" Count="11" _type ="vertex" Type= "Tag" />
+  <row Id="neuralnetwork" Count="36" _type ="vertex" Type= "Tag" />
+  <row Id="usecase" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="consumerweb" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="parameter" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="clusters" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="aws" Count="5" _type ="vertex" Type= "Tag" />
+  <row Id="sklearn" Count="10" _type ="vertex" Type= "Tag" />
+  <row Id="text-mining" Count="40" _type ="vertex" Type= "Tag" />
+  <row Id="freebase" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="knowledge-base" Count="7" _type ="vertex" Type= "Tag" />
+  <row Id="confusion-matrix" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="accuracy" Count="10" _type ="vertex" Type= "Tag" />
+  <row Id="categorical-data" Count="9" _type ="vertex" Type= "Tag" />
+  <row Id="data-formats" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="hierarchical-data-format" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="sql" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="research" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="experiments" Count="4" _type ="vertex" Type= "Tag" />
+  <row Id="random-forest" Count="12" _type ="vertex" Type= "Tag" />
+  <row Id="logistic-regression" Count="16" _type ="vertex" Type= "Tag" />
+  <row Id="evaluation" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="crawling" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="anonymization" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="beginner" Count="15" _type ="vertex" Type= "Tag" />
+  <row Id="graphs" Count="21" _type ="vertex" Type= "Tag" />
+  <row Id="cross-validation" Count="6" _type ="vertex" Type= "Tag" />
+  <row Id="sampling" Count="6" _type ="vertex" Type= "Tag" />
+  <row Id="scikit" Count="10" _type ="vertex" Type= "Tag" />
+  <row Id="kaggle" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="gradient-descent" Count="5" _type ="vertex" Type= "Tag" />
+  <row Id="feature-extraction" Count="11" _type ="vertex" Type= "Tag" />
+  <row Id="state-of-the-art" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="career" Count="8" _type ="vertex" Type= "Tag" />
+  <row Id="genetic" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="correlation" Count="8" _type ="vertex" Type= "Tag" />
+  <row Id="error-handling" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="apache-pig" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="pig" Count="5" _type ="vertex" Type= "Tag" />
+  <row Id="glm" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="regression" Count="22" _type ="vertex" Type= "Tag" />
+  <row Id="scala" Count="4" _type ="vertex" Type= "Tag" />
+  <row Id="csv" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="online-learning" Count="4" _type ="vertex" Type= "Tag" />
+  <row Id="ruby" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="unbalanced-classes" Count="5" _type ="vertex" Type= "Tag" />
+  <row Id="caret" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="gbm" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="kappa" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="marketing" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="predictive-modeling" Count="28" _type ="vertex" Type= "Tag" />
+  <row Id="e-commerce" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="data-binning" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="data-partition" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="long-tail" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="c#" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="library" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="rfm-scoring" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="bigtable" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="java" Count="7" _type ="vertex" Type= "Tag" />
+  <row Id="energy" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="treebank" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="tagging" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="annotation" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="anomaly-detection" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="forecast" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="sequence" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="sequential" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="dna" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="pmml" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="jpmml" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="hbase" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="tableau" Count="4" _type ="vertex" Type= "Tag" />
+  <row Id="deep-learning" Count="4" _type ="vertex" Type= "Tag" />
+  <row Id="ensemble-modeling" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="software-develpment" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="infographics" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="data-visualization" Count="5" _type ="vertex" Type= "Tag" />
+  <row Id="reporting" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="feature-scaling" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="apache-mahout" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="hive" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="object-recognition" Count="3" _type ="vertex" Type= "Tag" />
+  <row Id="hog" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="computer-vision" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="methods" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="scoring" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="ranking" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="sports" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="markov-process" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="matlab" Count="2" _type ="vertex" Type= "Tag" />
+  <row Id="simulation" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="finance" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="spark" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="linear-regression" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="version-control" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="convnet" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="image-classification" Count="1" _type ="vertex" Type= "Tag" />
+  <row Id="untagged" Count="2" _type ="vertex" Type= "Tag" />
+</tags>

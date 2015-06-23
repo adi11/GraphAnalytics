@@ -17,13 +17,13 @@ pattern3 = '/>'
 #subst1 = ""
 #subst2 = 'Type= \"Tag\" />'
 subst3 = 'PostId="'
-
+subst4 = '_type =\"vertex\" '
 edgel = ['id','outV','type','inV','label']
 count=0
 #q = re.search('Tags="&lt;(.*)&gt;',t)
 
-with open(DES+"/"+"Edges_1.xml",'w') as e_file:
-	with open(DES+"/"+"Posts_1.xml",'w') as new_file:
+with open(DES+"/"+"Edges_2.xml",'w') as e_file:
+	with open(DES+"/"+"Posts_2.xml",'w') as new_file:
 		with open(DES+"/"+"Posts.xml") as old_file:
 			for line in old_file:
 			
@@ -32,25 +32,26 @@ with open(DES+"/"+"Edges_1.xml",'w') as e_file:
 				
 				sbg2 = re.findall(r"[0-9]+",t)
 				if sbg2:
-					line = re.sub(pattern3,subst3+sbg2[0]+'" '+pattern3,line)
+					line = re.sub(pattern3,subst3+sbg2[0]+'" '+subst4+pattern3,line)
 				new_file.write(line)	
+				
 				#for seperating tags
-				subgroup = re.search(pattern1,t)
-				if subgroup:
-					st = subgroup.group(1)
-					lis = re.findall(r"[\w'-]+",st) 
+#				subgroup = re.search(pattern1,t)
+#				if subgroup:
+#					st = subgroup.group(1)
+#					lis = re.findall(r"[\w'-]+",st) 
 					# lis = ['data-mining', 'gt', 'lt', 'definitions']
 			
-					for i,val in enumerate(lis):
-						if('lt' != val and 'gt' != val):
-							print count,val
-							ne = '<edge '+edgel[0]+'="'+str(count)+'" '
-							ne+= edgel[1]+'="'+val+'" '
-							ne+= edgel[2]+'="edge" ' 
-							ne+= edgel[3]+'="'+sbg2[0]+'" '
-							ne+= edgel[4]+'="tag" />\n'
-							count+=1
-							e_file.write(ne)
+#					for i,val in enumerate(lis):
+#						if('lt' != val and 'gt' != val):
+#							print count,val
+#							ne = '<edge '+edgel[0]+'="'+str(count)+'" '
+#							ne+= edgel[1]+'="'+val+'" '
+#							ne+= edgel[2]+'="edge" ' 
+#							ne+= edgel[3]+'="'+sbg2[0]+'" '
+#							ne+= edgel[4]+'="tag" />\n'
+#							count+=1
+#							e_file.write(ne)
 			
 			
 
