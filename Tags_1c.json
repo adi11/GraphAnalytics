@@ -1,0 +1,823 @@
+{
+    "tags": {
+        "vertices": [
+            {
+                "_id": "definitions",
+                "Count": "9",
+                "ExcerptPost_id": "105",
+                "WikiPost_id": "104",
+                "Type": "Tag"
+            },
+            {
+                "_id": "machine-learning",
+                "Count": "233",
+                "ExcerptPost_id": "4909",
+                "WikiPost_id": "4908",
+                "Type": "Tag"
+            },
+            {
+                "_id": "bigdata",
+                "Count": "82",
+                "ExcerptPost_id": "66",
+                "WikiPost_id": "65",
+                "Type": "Tag"
+            },
+            {
+                "_id": "data-mining",
+                "Count": "94",
+                "ExcerptPost_id": "80",
+                "WikiPost_id": "79",
+                "Type": "Tag"
+            },
+            {
+                "_id": "databases",
+                "Count": "13",
+                "Type": "Tag"
+            },
+            {
+                "_id": "libsvm",
+                "Count": "2",
+                "ExcerptPost_id": "18",
+                "WikiPost_id": "17",
+                "Type": "Tag"
+            },
+            {
+                "_id": "scalability",
+                "Count": "15",
+                "Type": "Tag"
+            },
+            {
+                "_id": "efficiency",
+                "Count": "18",
+                "ExcerptPost_id": "142",
+                "WikiPost_id": "141",
+                "Type": "Tag"
+            },
+            {
+                "_id": "performance",
+                "Count": "12",
+                "Type": "Tag"
+            },
+            {
+                "_id": "nosql",
+                "Count": "11",
+                "ExcerptPost_id": "119",
+                "WikiPost_id": "118",
+                "Type": "Tag"
+            },
+            {
+                "_id": "relational-dbms",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "clustering",
+                "Count": "40",
+                "ExcerptPost_id": "145",
+                "WikiPost_id": "144",
+                "Type": "Tag"
+            },
+            {
+                "_id": "octave",
+                "Count": "2",
+                "ExcerptPost_id": "68",
+                "WikiPost_id": "67",
+                "Type": "Tag"
+            },
+            {
+                "_id": "k-means",
+                "Count": "8",
+                "Type": "Tag"
+            },
+            {
+                "_id": "algorithms",
+                "Count": "36",
+                "Type": "Tag"
+            },
+            {
+                "_id": "tools",
+                "Count": "19",
+                "Type": "Tag"
+            },
+            {
+                "_id": "processing",
+                "Count": "5",
+                "Type": "Tag"
+            },
+            {
+                "_id": "hadoop",
+                "Count": "40",
+                "Type": "Tag"
+            },
+            {
+                "_id": "r",
+                "Count": "75",
+                "ExcerptPost_id": "49",
+                "WikiPost_id": "48",
+                "Type": "Tag"
+            },
+            {
+                "_id": "data-cleaning",
+                "Count": "16",
+                "Type": "Tag"
+            },
+            {
+                "_id": "statistics",
+                "Count": "58",
+                "ExcerptPost_id": "3790",
+                "WikiPost_id": "3789",
+                "Type": "Tag"
+            },
+            {
+                "_id": "parallelism",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "distributed",
+                "Count": "9",
+                "Type": "Tag"
+            },
+            {
+                "_id": "neo4j",
+                "Count": "3",
+                "ExcerptPost_id": "181",
+                "WikiPost_id": "180",
+                "Type": "Tag"
+            },
+            {
+                "_id": "recommendation",
+                "Count": "34",
+                "ExcerptPost_id": "4907",
+                "WikiPost_id": "4906",
+                "Type": "Tag"
+            },
+            {
+                "_id": "information-retrieval",
+                "Count": "8",
+                "Type": "Tag"
+            },
+            {
+                "_id": "google",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "search",
+                "Count": "9",
+                "Type": "Tag"
+            },
+            {
+                "_id": "education",
+                "Count": "11",
+                "Type": "Tag"
+            },
+            {
+                "_id": "open-source",
+                "Count": "7",
+                "Type": "Tag"
+            },
+            {
+                "_id": "similarity",
+                "Count": "13",
+                "Type": "Tag"
+            },
+            {
+                "_id": "data-stream-mining",
+                "Count": "2",
+                "ExcerptPost_id": "109",
+                "WikiPost_id": "108",
+                "Type": "Tag"
+            },
+            {
+                "_id": "dimensionality-reduction",
+                "Count": "8",
+                "Type": "Tag"
+            },
+            {
+                "_id": "python",
+                "Count": "53",
+                "Type": "Tag"
+            },
+            {
+                "_id": "nlp",
+                "Count": "47",
+                "ExcerptPost_id": "147",
+                "WikiPost_id": "146",
+                "Type": "Tag"
+            },
+            {
+                "_id": "language-model",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "topic-model",
+                "Count": "7",
+                "Type": "Tag"
+            },
+            {
+                "_id": "lda",
+                "Count": "5",
+                "Type": "Tag"
+            },
+            {
+                "_id": "feature-selection",
+                "Count": "22",
+                "Type": "Tag"
+            },
+            {
+                "_id": "map-reduce",
+                "Count": "11",
+                "ExcerptPost_id": "137",
+                "WikiPost_id": "136",
+                "Type": "Tag"
+            },
+            {
+                "_id": "mongodb",
+                "Count": "3",
+                "ExcerptPost_id": "178",
+                "WikiPost_id": "177",
+                "Type": "Tag"
+            },
+            {
+                "_id": "indexing",
+                "Count": "1",
+                "ExcerptPost_id": "152",
+                "WikiPost_id": "151",
+                "Type": "Tag"
+            },
+            {
+                "_id": "data-indexing-techniques",
+                "Count": "2",
+                "ExcerptPost_id": "149",
+                "WikiPost_id": "148",
+                "Type": "Tag"
+            },
+            {
+                "_id": "dataset",
+                "Count": "56",
+                "Type": "Tag"
+            },
+            {
+                "_id": ".net",
+                "Count": "1",
+                "ExcerptPost_id": "168",
+                "WikiPost_id": "167",
+                "Type": "Tag"
+            },
+            {
+                "_id": "pandas",
+                "Count": "9",
+                "Type": "Tag"
+            },
+            {
+                "_id": "parallel",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "metadata",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "parsing",
+                "Count": "6",
+                "Type": "Tag"
+            },
+            {
+                "_id": "social-network-analysis",
+                "Count": "13",
+                "Type": "Tag"
+            },
+            {
+                "_id": "time-series",
+                "Count": "28",
+                "Type": "Tag"
+            },
+            {
+                "_id": "javascript",
+                "Count": "4",
+                "Type": "Tag"
+            },
+            {
+                "_id": "visualization",
+                "Count": "24",
+                "Type": "Tag"
+            },
+            {
+                "_id": "svm",
+                "Count": "21",
+                "Type": "Tag"
+            },
+            {
+                "_id": "classification",
+                "Count": "86",
+                "ExcerptPost_id": "4911",
+                "WikiPost_id": "4910",
+                "Type": "Tag"
+            },
+            {
+                "_id": "binary",
+                "Count": "4",
+                "Type": "Tag"
+            },
+            {
+                "_id": "optimization",
+                "Count": "11",
+                "Type": "Tag"
+            },
+            {
+                "_id": "neuralnetwork",
+                "Count": "36",
+                "Type": "Tag"
+            },
+            {
+                "_id": "usecase",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "consumerweb",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "parameter",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "clusters",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "aws",
+                "Count": "5",
+                "Type": "Tag"
+            },
+            {
+                "_id": "sklearn",
+                "Count": "10",
+                "Type": "Tag"
+            },
+            {
+                "_id": "text-mining",
+                "Count": "40",
+                "Type": "Tag"
+            },
+            {
+                "_id": "freebase",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "knowledge-base",
+                "Count": "7",
+                "Type": "Tag"
+            },
+            {
+                "_id": "confusion-matrix",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "accuracy",
+                "Count": "10",
+                "Type": "Tag"
+            },
+            {
+                "_id": "categorical-data",
+                "Count": "9",
+                "Type": "Tag"
+            },
+            {
+                "_id": "data-formats",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "hierarchical-data-format",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "sql",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "research",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "experiments",
+                "Count": "4",
+                "Type": "Tag"
+            },
+            {
+                "_id": "random-forest",
+                "Count": "12",
+                "Type": "Tag"
+            },
+            {
+                "_id": "logistic-regression",
+                "Count": "16",
+                "Type": "Tag"
+            },
+            {
+                "_id": "evaluation",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "crawling",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "anonymization",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "beginner",
+                "Count": "15",
+                "Type": "Tag"
+            },
+            {
+                "_id": "graphs",
+                "Count": "21",
+                "Type": "Tag"
+            },
+            {
+                "_id": "cross-validation",
+                "Count": "6",
+                "Type": "Tag"
+            },
+            {
+                "_id": "sampling",
+                "Count": "6",
+                "Type": "Tag"
+            },
+            {
+                "_id": "scikit",
+                "Count": "10",
+                "Type": "Tag"
+            },
+            {
+                "_id": "kaggle",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "gradient-descent",
+                "Count": "5",
+                "Type": "Tag"
+            },
+            {
+                "_id": "feature-extraction",
+                "Count": "11",
+                "Type": "Tag"
+            },
+            {
+                "_id": "state-of-the-art",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "career",
+                "Count": "8",
+                "Type": "Tag"
+            },
+            {
+                "_id": "genetic",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "correlation",
+                "Count": "8",
+                "Type": "Tag"
+            },
+            {
+                "_id": "error-handling",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "apache-pig",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "pig",
+                "Count": "5",
+                "Type": "Tag"
+            },
+            {
+                "_id": "glm",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "regression",
+                "Count": "22",
+                "Type": "Tag"
+            },
+            {
+                "_id": "scala",
+                "Count": "4",
+                "Type": "Tag"
+            },
+            {
+                "_id": "csv",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "online-learning",
+                "Count": "4",
+                "Type": "Tag"
+            },
+            {
+                "_id": "ruby",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "unbalanced-classes",
+                "Count": "5",
+                "Type": "Tag"
+            },
+            {
+                "_id": "caret",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "gbm",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "kappa",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "marketing",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "predictive-modeling",
+                "Count": "28",
+                "Type": "Tag"
+            },
+            {
+                "_id": "e-commerce",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "data-binning",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "data-partition",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "long-tail",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "c#",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "library",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "rfm-scoring",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "bigtable",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "java",
+                "Count": "7",
+                "Type": "Tag"
+            },
+            {
+                "_id": "energy",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "treebank",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "tagging",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "annotation",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "anomaly-detection",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "forecast",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "sequence",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "sequential",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "dna",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "pmml",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "jpmml",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "hbase",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "tableau",
+                "Count": "4",
+                "Type": "Tag"
+            },
+            {
+                "_id": "deep-learning",
+                "Count": "4",
+                "Type": "Tag"
+            },
+            {
+                "_id": "ensemble-modeling",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "software-develpment",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "infographics",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "data-visualization",
+                "Count": "5",
+                "Type": "Tag"
+            },
+            {
+                "_id": "reporting",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "feature-scaling",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "apache-mahout",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "hive",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "object-recognition",
+                "Count": "3",
+                "Type": "Tag"
+            },
+            {
+                "_id": "hog",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "computer-vision",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "methods",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "scoring",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "ranking",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "sports",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "markov-process",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "matlab",
+                "Count": "2",
+                "Type": "Tag"
+            },
+            {
+                "_id": "simulation",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "finance",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "spark",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "linear-regression",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "version-control",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "convnet",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "image-classification",
+                "Count": "1",
+                "Type": "Tag"
+            },
+            {
+                "_id": "untagged",
+                "Count": "2",
+                "Type": "Tag"
+            }
+        ]
+    }
+}
